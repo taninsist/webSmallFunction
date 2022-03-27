@@ -1,2 +1,3 @@
-# webSmallFunction
-前端小功能
+# JQuery-emoji 表情
+
+> 官网: http://eshengsky.github.io/jQuery-emoji/
